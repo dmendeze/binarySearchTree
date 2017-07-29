@@ -2,8 +2,6 @@ package BST;
 
 public class BST implements BST_Interface {
 	public BST_Node root;
-	public BST_Node daddyNode;
-	public BST_Node mommyNode;
 
 	int size;
 
